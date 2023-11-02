@@ -1,0 +1,912 @@
+{
+    "CategoryData":[
+        {
+            "name":"Smartwatch",
+            "image":"/images/banner/smartwatch.png",
+            "redirect_link":"#"
+        },
+        {
+            "name":"Audio",
+            "image":"/images/banner/Audio.png",
+            "redirect_link":"#"
+        },
+        {
+            "name":"Modem & Router",
+            "image":"/images/banner/Router.png",
+            "redirect_link":"#"
+        },
+        {
+            "name":"Power",
+            "image":"/images/banner/Power.png",
+            "redirect_link":"#"
+        },
+        {
+            "name":"Phone",
+            "image":"/images/banner/Phone2.png",
+            "redirect_link":"#"
+        }
+    ],
+    "CategorySectionData": [
+        {
+            "image":"/images/banner/watchBanner.png",
+            "redirect_link":"/products/smartwatch/classic"
+        },
+        {
+            "image":"/images/banner/audioBanner.png",
+            "redirect_link":"/products/audio/tws"
+        },
+        {
+            "image":"/images/banner/phoneBanner.png",
+            "redirect_link":"#"
+        },
+        {
+            "image":"/images/banner/powerBanner.png",
+            "redirect_link":"/products/power/charger"
+        }
+    ],
+    "TopSellingData": [
+        {
+            "name":"XTRA Active R38 ",
+            "slug":"XTRA_Active_R38",
+            "tag":"/smartwatch/classic/",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/watch/activeR38.png",
+            "price":"BDT 5,599"
+        },
+        {
+            "name":"XTRA Active S18",
+            "slug":"XTRA_Active_S18",
+            "tag":"/smartwatch/classic/",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/watch/activeS18.png",
+            "price":"BDT 3,699"
+            
+        },
+        {
+            "name":"XTRA Active R28 ",
+            "slug":"XTRA_Active_R28",
+            "tag":"/smartwatch/classic/",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/watch/activeR28.png",
+            "price":"BDT 4,999" 
+        },
+        {
+            "name":"XTRA Power DA20",
+            "slug":"XTRA_Power_DA20",
+            "tag":"/power/charger/",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/power/charger/xtraDa20.png",
+            "price":"BDT 799"
+            
+        },
+        {
+            "name":"XTRA Buds T3 TWS",
+            "slug":"XTRA _Buds_T3_TWS",
+            "tag":"/audio/tws/",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/audio/tws/budst3Black.png",
+            "price":"BDT 1,499"
+            
+        },
+        {
+            "name":"XTRA N40 Neckband",
+            "slug":"XTRA_N40",
+            "tag":"/audio/neckband/",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/audio/neckband/xtraN40_1.png",
+            "price":"BDT 1,199"
+            
+        },
+        {
+            "name":"XTRA N50 Neckband",
+            "slug":"XTRA_N50",
+            "tag":"/audio/neckband/",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/audio/neckband/xtraN50_1.png",
+            "price":"BDT 1,199"
+            
+        },
+        {
+            "name":"XTRA B75 pro",
+            "slug":" XTRA_B75_pro",
+            "tag":"/audio/wired-earphone/",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/audio/wired/xtraB75pro.png",
+            "price":"BDT 350"
+            
+        },
+        {
+            "name":"Xtra N25 Neckband",
+            "slug":"XTRA_N25",
+            "tag":"/audio/neckband/",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/audio/neckband/xtraN25_1.png",
+            "price":"BDT 699"
+            
+        },
+        {
+            "name":"Xtra B75 wired headphone",
+            "slug":"Xtra_B75",
+            "tag":"/audio/wired-earphone/",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/audio/wired/xtraB75.png",
+            "price":"BDT 399"
+            
+        }
+
+    ],
+    "CHARGER": [
+        {
+            "id":"1",
+            "name":"XTRA Power DA30",
+            "slug":"XTRA_Power_DA30",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/power/charger/xtraDa30.png",
+            "images":[
+                {
+                    "id":"1",
+                    "image":"/images/product/power/charger/xtraDa30.png"
+                },
+                {
+                    "id":"2",
+                    "image":"/images/product/power/charger/xtraDa30_1.png"
+                },
+                {
+                    "id":"3",
+                    "image":"/images/product/power/charger/xtraDa30_2.png"
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#D2D2D7"
+                }
+            ],
+            "price":"BDT 799",
+             "specification":"<table border=\"0\" width=\"489\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col span=\"2\" width=\"244\" \/><\/colgroup>\r\n<tbody>\r\n<tr>\r\n<td class=\"oa1\" width=\"244\" height=\"30\">\r\n<p>Specification<\/p>\r\n<\/td>\r\n<td class=\"oa1\" width=\"244\">\r\n<p>Details<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"30\">\r\n<p>Watt<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>30W<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"30\">\r\n<p>Input Power<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>AC110-240V,&nbsp; 50-60Hz<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"119\">\r\n<p>Output Power<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>C: 5V-3A, 9V-3A, 12V -2.5A, 15V-2A, 20V-1.5A<\/p>\r\n<p>A: 5V-3A, 9V-2A, 12V -1.5A<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"30\">\r\n<p>Charging Technology<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>QC + PD<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"60\">\r\n<p>Port Type<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>USB A- 1<br \/>Type C &ndash; 1<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"30\">\r\n<p>Color<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>Black<\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+             "overview":"",
+             "web_link":"https://www.salextra.com.bd/xtra-power-da30",
+            "store_link":"/about/store"
+        },
+        {
+            "id":"2",
+            "name":"XTRA Power DA20",
+            "slug":"XTRA_Power_DA20",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/power/charger/xtraDa20.png",
+            "images":[
+                {
+                    "id":"1",
+                    "image":"/images/product/power/charger/xtraDa20.png"
+                },
+                {
+                    "id":"2",
+                    "image":"/images/product/power/charger/xtraDa20_1.png"
+                },
+                {
+                    "id":"3",
+                    "image":"/images/product/power/charger/xtraDa20_2.png"
+                },
+                {
+                    "id":"4",
+                    "image":"https://www.salextra.com.bd/images/thumbs/002/0029912_xtra-power-da30.jpeg"
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#D2D2D7"
+                }
+            ],
+            "price":"BDT 799",
+             "specification":"<table border=\"0\" width=\"489\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col span=\"2\" width=\"244\" \/><\/colgroup>\r\n<tbody>\r\n<tr>\r\n<td class=\"oa1\" width=\"244\" height=\"30\">\r\n<p>Specification<\/p>\r\n<\/td>\r\n<td class=\"oa1\" width=\"244\">\r\n<p>Details<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"30\">\r\n<p>Watt<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>30W<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"30\">\r\n<p>Input Power<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>AC110-240V,&nbsp; 50-60Hz<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"119\">\r\n<p>Output Power<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>C: 5V-3A, 9V-3A, 12V -2.5A, 15V-2A, 20V-1.5A<\/p>\r\n<p>A: 5V-3A, 9V-2A, 12V -1.5A<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"30\">\r\n<p>Charging Technology<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>QC + PD<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"60\">\r\n<p>Port Type<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>USB A- 1<br \/>Type C &ndash; 1<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"244\" height=\"30\">\r\n<p>Color<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"244\">\r\n<p>Black<\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+             "overview":"",
+             "web_link":"https://www.salextra.com.bd/xtra-power-da30",
+            "store_link":"/about/store"
+        }
+    ],
+    "CLASSICWATCH":[
+        {
+            "name":"XTRA Active S2",
+            "slug":"XTRA_Active_S2",
+            "storage":"N/A",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/watch/activeS2.png",
+            "images":[
+                {
+                    "image":"https://www.salextra.com.bd/images/thumbs/002/0029813_xtra-active-s2-bluetooth-calling-smart-watch.png",
+                    "alt":"" 
+                },
+                {
+                    "image":"https://www.salextra.com.bd/images/thumbs/002/0029814_xtra-active-s2-bluetooth-calling-smart-watch.png",
+                    "alt":"" 
+                },
+                {
+                    "image":"https://www.salextra.com.bd/images/thumbs/002/0029815_xtra-active-s2-bluetooth-calling-smart-watch.png",
+                    "alt":"" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#000000"
+                },
+                {
+                    "color":"Blue",
+                    "colorCode":"#323D71"
+                }
+            ],
+            "price":"BDT 1,699",
+            "specification":"<table border=\"0\" width=\"472\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td class=\"oa1\" width=\"146\" height=\"59\">\r\n<p>Specification<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"326\">\r\n<p>Details<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"146\" height=\"37\">\r\n<p>Dimension<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"326\">\r\n<p>45*38*13mm<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"146\" height=\"36\">\r\n<p>Screen Size<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"326\">\r\n<p>1.73\" Bright Display, 240*280 pixels<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"146\" height=\"32\">\r\n<p>BT Calling<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"326\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"146\" height=\"32\">\r\n<p>Touch Mode<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"326\">\r\n<p>Full screen touch<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"146\" height=\"31\">\r\n<p>Battery<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"326\">\r\n<p>150mAh<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"146\" height=\"31\">\r\n<p>Charging<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"326\">\r\n<p>Magnetic charging<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"146\" height=\"31\">\r\n<p>Sports Mode<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"326\">\r\n<p>32<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"146\" height=\"32\">\r\n<p>Heart rate<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"326\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"146\" height=\"32\">\r\n<p>Blood Pressure<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"326\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"146\" height=\"32\">\r\n<p>Blood Oxygen<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"326\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"146\" height=\"27\">\r\n<p>Color<\/p>\r\n<\/td>\r\n<td class=\"oa5\" width=\"326\">\r\n<p>Black, Blue<\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-active-s2",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"XTRA Active S7 ",
+            "slug":"XTRA_Active_S7",
+            "storage":"N/A",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/watch/activeS7.png",
+            "images":[
+                {
+                    "image":"/images/product/watch/activeS7.png",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeS7/1.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeS7/2.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeS7/3.jpg",
+                    "alt":"" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#000000"
+                },
+                {
+                    "color":"Gray",
+                    "colorCode":"#9B8282"
+                }
+            ],
+            "price":"BDT 2,599",
+            "specification":"<table border=\"0\" width=\"472\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td class=\"oa1\" width=\"146\" height=\"59\">\r\n<p>Specification<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"326\">\r\n<p>Details<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"146\" height=\"36\">\r\n<p>Screen Size<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"326\">\r\n<p>1.83\" Display, Resolution 240*284<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"146\" height=\"47\">\r\n<p>BT Calling<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"326\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"146\" height=\"31\">\r\n<p>Battery<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"326\">\r\n<p>230mAh<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"146\" height=\"31\">\r\n<p>Sports Mode<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"326\">\r\n<p>32<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"146\" height=\"31\">\r\n<p>Charging<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"326\">\r\n<p>2 pin magnetic charger<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"146\" height=\"32\">\r\n<p>Heart rate<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"326\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"146\" height=\"28\">\r\n<p>Blood Pressure<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"326\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"146\" height=\"28\">\r\n<p>Blood Oxygen<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"326\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"146\" height=\"48\">\r\n<p>Color<\/p>\r\n<\/td>\r\n<td class=\"oa5\" width=\"326\">\r\n<p>Black<\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-active-s7",
+            "store_link":"/about/store"
+        },
+
+        {
+            "name":"XTRA Active R7",
+            "slug":"XTRA_Active_R7",
+            "storage":"N/A",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/watch/activeR7.png",
+            "images":[
+                {
+                    "image":"/images/product/watch/activeR7.png",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR7/1.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR7/2.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR7/3.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR7/4.jpg",
+                    "alt":"" 
+                },{
+                    "image":"/images/product/watch/activeR7/5.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR7/6.jpg",
+                    "alt":"" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#000000"
+                }
+            ],
+            "price":"BDT 3,699",
+            "specification":"<table border=\"0\" width=\"440\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col width=\"172\" \/><col width=\"268\" \/><\/colgroup>\r\n<tbody>\r\n<tr>\r\n<td class=\"oa1\" width=\"172\" height=\"50\">\r\n<p><strong>Specification<\/strong><\/p>\r\n<\/td>\r\n<td class=\"oa1\" width=\"268\">\r\n<p><strong>Details<\/strong><\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"172\" height=\"27\">\r\n<p>Category Type<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"268\">\r\n<p>Smart Watch<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"172\" height=\"27\">\r\n<p>Screen size<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"268\">\r\n<p>1.32&rdquo; Display, 360*360 pixel<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"172\" height=\"27\">\r\n<p>Chipset<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"268\">\r\n<p>RTL8763EWE<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"172\" height=\"27\">\r\n<p>Storage<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"268\">\r\n<p>Flash: 128MB<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"172\" height=\"27\">\r\n<p>BT Calling<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"268\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"172\" height=\"27\">\r\n<p>Sport Mode<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"268\">\r\n<p>32+<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"172\" height=\"27\">\r\n<p>Watch Face<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"268\">\r\n<p>100+<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"172\" height=\"27\">\r\n<p>Voice Assistant<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"268\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"172\" height=\"27\">\r\n<p>Water Resistance<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"268\">\r\n<p>IP67<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"172\" height=\"27\">\r\n<p>Battery<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"268\">\r\n<p>Li-polymer 260mAh, Up to 5 Day<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"172\" height=\"27\">\r\n<p>Charging Type<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"268\">\r\n<p>2 pin magnetic charger<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"172\" height=\"27\">\r\n<p>Material<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"268\">\r\n<p>&nbsp;Body: Zn-alloy Frame, Buckle: Stainless steel, Strap: Silicone<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"172\" height=\"27\">\r\n<p>Connectivity<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"268\">\r\n<p>Android 4.4+ \/ iOS 9.0+<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"172\" height=\"27\">\r\n<p>Control<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"268\">\r\n<p>Camera &amp; Music, Al Voice Assistant<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"172\" height=\"34\">\r\n<p>Function<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"268\">\r\n<p>Sleep monitoring, Sync message,&nbsp; Heart rate, Blood Pressure, Weather, Music Control, Alarm, Sedentary remind<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"172\" height=\"27\">\r\n<p>Color<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"268\">\r\n<p>Black<\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "overview":"/images/product/watch/activeR7/R7.jpg",
+            "web_link":"https://www.salextra.com.bd/smartwatch-xtra-active-r7",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"XTRA Active S18",
+            "slug":"XTRA_Active_S18",
+            "storage":"N/A",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/watch/activeS18.png",
+            "images":[
+                {
+                    "image":"/images/product/watch/activeS18.png",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeS18/1.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeS18/2.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeS18/3.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeS18/4.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeS18/5.jpg",
+                    "alt":"" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#000000"
+                },
+                {
+                    "color":"Blue",
+                    "colorCode":"#182448"
+                },
+                {
+                    "color":"Silver",
+                    "colorCode":"#D8D0C3"
+                }
+            ],
+            "price":"BDT 3,699",
+            "specification":"<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Specification<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Details<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Screen Size<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">1.96\" HD Display, 320*386 Resolution<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">BT Calling<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Dimension<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">44.2*36.6*10.0mm<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Battery<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Li-polymer 230mAh<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Waterproof<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">IP67<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Charging<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">2 pin magnetic charger<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Sport Mode<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Material<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">ABS+Zn-alloy Frame&nbsp; Body, Stainless steel Buckle, Silicone Strap<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Compatibility<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Android 4.4+ &amp; iOS 9.0+<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Function<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Heart rate monitoring, Blood Pressure, Sleep monitoring, Blood Oxygen, Weather, Music control, Sync message&nbsp;<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Color<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Black, Blue, Grey&nbsp;<\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-active-s18",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"XTRA Active R28 ",
+            "slug":"XTRA_Active_R28",
+            "storage":"N/A",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/watch/activeR28.png",
+            "images":[
+                {
+                    "image":"/images/product/watch/activeR28.png",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR28/1.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR28/2.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR28/3.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR28/4.jpg",
+                    "alt":"" 
+                },{
+                    "image":"/images/product/watch/activeR28/5.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR28/6.jpg",
+                    "alt":"" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#000000"
+                },
+                {
+                    "color":"Military Green",
+                    "colorCode":"#939875"
+                }
+            ],
+            "price":"BDT 4,999",
+            "overview":" ",
+            "specification":"<table class=\"data-table flex-table\" style=\"height: 288px;\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col class=\"name\" \/><col class=\"value\" \/><\/colgroup>\r\n<thead>\r\n<tr style=\"height: 18px;\">\r\n<td class=\"heading-row\" style=\"height: 18px; width: 482.312px;\" colspan=\"3\"><strong>Basic Information<\/strong><\/td>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr style=\"height: 18px;\">\r\n<td class=\"name\" style=\"height: 18px; width: 110.469px;\">Display<\/td>\r\n<td class=\"value\" style=\"height: 18px; width: 369.844px;\">1.45\" TFT Display, Resolution , 360*360 pixels<\/td>\r\n<\/tr>\r\n<tr style=\"height: 18px;\">\r\n<td class=\"name\" style=\"height: 18px; width: 110.469px;\">Battery<\/td>\r\n<td class=\"value\" style=\"height: 18px; width: 369.844px;\">250mAh<\/td>\r\n<\/tr>\r\n<tr style=\"height: 18px;\">\r\n<td class=\"name\" style=\"height: 18px; width: 110.469px;\">Connectivity<\/td>\r\n<td class=\"value\" style=\"height: 18px; width: 369.844px;\">Bluetooth 5.3<\/td>\r\n<\/tr>\r\n<tr style=\"height: 18px;\">\r\n<td class=\"name\" style=\"height: 18px; width: 110.469px;\">SpecialFeatures<\/td>\r\n<td class=\"value\" style=\"height: 18px; width: 369.844px;\">Bluetooth Calling Smart Watch<\/td>\r\n<\/tr>\r\n<tr style=\"height: 72px;\">\r\n<td class=\"name\" style=\"height: 72px; width: 110.469px;\">Sensor<\/td>\r\n<td class=\"value\" style=\"height: 72px; width: 369.844px;\">Sports Mode, wrist up to light up the screen, sleep<br \/>monitoring, sync message, sedentary reminder,<br \/>Alarm, remote photography, Find the phone, change<br \/>the UI through App, HRM, BP, BPO,<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<thead>\r\n<tr style=\"height: 18px;\">\r\n<td class=\"heading-row\" style=\"height: 18px; width: 482.312px;\" colspan=\"3\"><strong>Exterior<\/strong><\/td>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr style=\"height: 18px;\">\r\n<td class=\"name\" style=\"height: 18px; width: 110.469px;\">Dimension<\/td>\r\n<td class=\"value\" style=\"height: 18px; width: 369.844px;\">47*12.5*22mm<\/td>\r\n<\/tr>\r\n<tr style=\"height: 18px;\">\r\n<td class=\"name\" style=\"height: 18px; width: 110.469px;\">Weight<\/td>\r\n<td class=\"value\" style=\"height: 18px; width: 369.844px;\">50g<\/td>\r\n<\/tr>\r\n<tr style=\"height: 36px;\">\r\n<td class=\"name\" style=\"height: 36px; width: 110.469px;\">Color<\/td>\r\n<td class=\"value\" style=\"height: 36px; width: 369.844px;\">Black<br \/>Military Green<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<thead>\r\n<tr style=\"height: 18px;\">\r\n<td class=\"heading-row\" style=\"height: 18px; width: 482.312px;\" colspan=\"3\"><strong>Warranty Information<\/strong><\/td>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr style=\"height: 18px;\">\r\n<td class=\"name\" style=\"height: 18px; width: 110.469px;\">Warranty<\/td>\r\n<td class=\"value\" style=\"height: 18px; width: 369.844px;\">01-year Warranty<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table> ",
+            "web_link":"https://www.salextra.com.bd/xtra-active-r28",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"XTRA Active R38 ",
+            "slug":"XTRA_Active_R38",
+            "storage":"N/A",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/watch/activeR38.png",
+            "images":[
+                {
+                    "image":"/images/product/watch/activeR38.png",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR38/1.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR38/2.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR38/3.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR38/4.jpg",
+                    "alt":"" 
+                },
+                {
+                    "image":"/images/product/watch/activeR38/5.jpg",
+                    "alt":"" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#000000"
+                },
+                {
+                    "color":"Brown",
+                    "colorCode":"#A66644"
+                }
+            ],
+            "price":"BDT 5,599",
+            "specification": "<table class=\"data-table flex-table\" cellspacing=\"0\" cellpadding=\"0\">\r\n<thead>\r\n<tr>\r\n<td class=\"heading-row\" colspan=\"3\"><strong>Basic Information<\/strong><\/td>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td class=\"name\">Display<\/td>\r\n<td class=\"value\">1.43\" AMOLED Display, Resolution 466*466<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"name\">Battery<\/td>\r\n<td class=\"value\">250mAh<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"name\">Connectivity<\/td>\r\n<td class=\"value\">Bluetooth 5.3<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"name\">SpecialFeatures<\/td>\r\n<td class=\"value\">Bluetooth Calling Smart Watch<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"name\">Sensor<\/td>\r\n<td class=\"value\">24H Heart Rate Monitor,<br \/>Sp02 Monitor, Breath<br \/>Training Connection<br \/>Password protection, Classic<br \/>navigation crown<br \/><br \/><\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<thead>\r\n<tr>\r\n<td class=\"heading-row\" colspan=\"3\"><strong>Exterior<\/strong><\/td>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td class=\"name\">Dimension<\/td>\r\n<td class=\"value\">25.5x47x13 mm<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"name\">Weight<\/td>\r\n<td class=\"value\">52g<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"name\">Color<\/td>\r\n<td class=\"value\">Black<br \/>Brown<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<thead>\r\n<tr>\r\n<td class=\"heading-row\" colspan=\"3\"><strong>Warranty Information<\/strong><\/td>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td class=\"name\">Warranty<\/td>\r\n<td class=\"value\">01-year Warranty<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<p>&nbsp;<\/p> ",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-active-r38",
+            "store_link":"/about/store"
+        }
+
+    ],
+    "TWS": [
+        {
+            "name":"XTRA BUDS T12",
+            "slug":"XTRA_BUDS_T12",
+            "storage":"N/A",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/audio/tws/budst12White.png",
+            "images":[
+                {
+                    "image":"/images/product/audio/tws/budst12White.png",
+                    "alt":"white" 
+                },
+                {
+                    "image":"/images/product/audio/tws/budst12Black.png",
+                    "alt":"Black" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#000000"
+                },
+                {
+                    "color":"White",
+                    "colorCode":"#FFFFFF"
+                }
+            ],
+            "price":"BDT 1,499",
+            "specification":" ",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-buds-t12",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"XTRA Buds T5",
+            "slug":"XTRA_Buds_T5",
+            "storage":"N/A",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/audio/tws/budst5White.png",
+            "images":[
+                {
+                    "image":"/images/product/audio/tws/budst5White.png",
+                    "alt":"White" 
+                },
+                {
+                    "image":"/images/product/audio/tws/budst5Black.png",
+                    "alt":"Black" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#000000"
+                },
+                {
+                    "color":"White",
+                    "colorCode":"#FFFFFF"
+                }
+            ],
+            "price":"BDT 1,599",
+            "specification":" ",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-buds-t5",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"XTRA Buds T3 TWS Wireless Earbud",
+            "slug":"XTRA _Buds_T3_TWS",
+            "storage":"N/A",
+            "emiOffer":"0% EMI",
+            "pImage":"/images/product/audio/tws/budst3Black.png",
+            "images":[
+                {
+                    "image":"/images/product/audio/tws/budst3Black.png",
+                    "alt":"Black" 
+                },
+                {
+                    "image":"/images/product/audio/tws/budst3White.png",
+                    "alt":"White" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"White",
+                    "colorCode":"#FFFFFF"
+                },
+                {
+                    "color":"Black",
+                    "colorCode":"#000000"
+                }
+            ],
+            "price":"BDT 1,499",
+            "specification":"<table border=\"0\" width=\"719\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td class=\"xl63\" width=\"292\" height=\"31\"><span class=\"font5\">Items<\/span><\/td>\r\n<td class=\"xl68\" colspan=\"2\" width=\"427\"><span class=\"font5\">English<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"20\"><span class=\"font6\">Chipsets<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">JL73D4<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"20\"><span class=\"font6\">Software<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">V5.3<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"21\"><span class=\"font6\">Weight<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">41gm<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl65\" width=\"292\" height=\"80\"><span class=\"font6\">Touch<\/span><\/td>\r\n<td class=\"xl66\" colspan=\"2\" width=\"427\"><span class=\"font7\">Single Tap(L\/R): play\/pause, Answer\/hang up<br \/><\/span><span class=\"font7\">Press two seconds(L\/R): Reject a Call<br \/><\/span><span class=\"font7\">Press 3 times(L\/R): Intelligent voice wake-up Twice Tap(L): Previous Song<br \/><\/span><span class=\"font7\">Twice Tap(R): Next Song<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"21\"><span class=\"font6\">Material<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">ABS<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"25\"><span class=\"font6\">Waterproof Level<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">IPX4<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"20\"><span class=\"font6\">Speaker Impedance<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">16 \u2126<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"20\"><span class=\"font6\">driver type<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">Dynamic<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"20\"><span class=\"font6\">driver size<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">10mm<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"20\"><span class=\"font6\">Frequency Range<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">20Hz-20KHz<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"20\"><span class=\"font6\">Sensitivity<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">90dB<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"22\"><span class=\"font6\">Bluetooth Version<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">BT 5.3<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"20\"><span class=\"font6\">Wireless Range<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">10m(Free Space)<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"21\"><span class=\"font6\">Battery Capacity<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">Earbuds:28 mAh, Charging Case: 250 mAh<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"28\"><span class=\"font6\">Charging Indicator<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">Red\/Blue<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"20\"><span class=\"font6\">Charging Interface<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">Type-C<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"21\"><span class=\"font6\">Earphone rated Input<\/span><\/td>\r\n<td class=\"xl66\" colspan=\"2\" width=\"427\"><span class=\"font8\"><sup>DC5V<\/sup><\/span><span class=\"font9\">&asymp;<\/span><span class=\"font8\"><sup>45mA<\/sup><\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"20\"><span class=\"font6\">Charging Case rated Input<\/span><\/td>\r\n<td class=\"xl66\" colspan=\"2\" width=\"427\"><span class=\"font8\"><sup>DC5V<\/sup><\/span><span class=\"font9\">&asymp;<\/span><span class=\"font8\"><sup>200mA<\/sup><\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"21\"><span class=\"font6\">Charging Case rated Consumption Current<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">15uA<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"20\"><span class=\"font6\">Suitable for<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">Compatible with all wireless devices<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"24\"><span class=\"font6\">Charging Time<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">1.5H<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"26\"><span class=\"font6\">Music Time<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">6hr(50% of the volume)<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"292\" height=\"30\"><span class=\"font6\">Music listening duration with the charging case<\/span><\/td>\r\n<td class=\"xl70\" colspan=\"2\" width=\"427\"><span class=\"font7\">16H*<\/span><\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-budst3",
+            "store_link":"/about/store"
+        }
+    ],
+    "NECKBAND": [
+        {
+            "name":"XTRA N20 Neckband",
+            "slug":"XTRA_N20_Neckband",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/audio/neckband/xtraN20_1.png",
+            "images":[
+                {
+                    "image":"/images/product/audio/neckband/xtraN20_1.png",
+                    "alt":"n20_1" 
+                },
+                {
+                    "image":"/images/product/audio/neckband/xtraN20_2.png",
+                    "alt":"n20_2" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#0A0A0A"
+                }
+            ],
+            "price":"BDT 499",
+            "specification":"<div class=\"master-wrapper-content\">\r\n<div class=\"master-column-wrapper\">\r\n<div class=\"center-1\">\r\n<div class=\"page product-details-page\">\r\n<div class=\"page-body\"><form id=\"product-details-form\" action=\"https:\/\/www.salextra.com.bd\/apple-20w-usb-c-power-adapter\" method=\"post\" novalidate=\"novalidate\">\r\n<div data-productid=\"5945\">\r\n<div id=\"quickTabs\" class=\"productTabs ui-tabs ui-corner-all ui-widget ui-widget-content\" data-ajaxenabled=\"true\" data-productreviewsaddnewurl=\"\/ProductTab\/ProductReviewsTabAddNew\/5945\" data-productcontactusurl=\"\/ProductTab\/ProductContactUsTabAddNew\/5945\" data-couldnotloadtaberrormessage=\"Couldn't load this tab.\">\r\n<div class=\"productTabs-body\">\r\n<div id=\"quickTab-default\" class=\"ui-tabs-panel ui-corner-bottom ui-widget-content\" role=\"tabpanel\" aria-labelledby=\"ui-id-1\" aria-hidden=\"false\">\r\n<div class=\"full-description\">\r\n<p>The Apple 20W USB\u2011C Power Adapter offers fast, efficient charging at home, in the office, or on the go. While the power adapter is compatible with any USB\u2011C-enabled device, Apple recommends pairing it with the iPad Pro and iPad Air for optimal charging performance. You can also pair it with iPhone 8 or later to take advantage of the fast-charging feature. Charging cable is sold separately.<\/p>\r\n<p>Official warranty: 6 months<\/p>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"product-collateral\">&nbsp;<\/div>\r\n<\/div>\r\n<\/form><\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"footer\">\r\n<div class=\"footer-upper electronics-pattern\">\r\n<div class=\"newsletter\">&nbsp;<\/div>\r\n<\/div>\r\n<\/div>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-n20-neckband",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"XTRA N30 Neckband",
+            "slug":"XTRA_N30",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/audio/neckband/xtraN30_1.png",
+            "images":[
+                {
+                    "image":"/images/product/audio/neckband/xtraN30_1.png",
+                    "alt":"n30" 
+                },
+                {
+                    "image":"/images/product/audio/neckband/xtraN30_2.png",
+                    "alt":"n30" 
+                },
+                {
+                    "image":"/images/product/audio/neckband/xtraN30_3.png",
+                    "alt":"n30" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Blue",
+                    "colorCode":"#A7B6C8"
+                },
+                {
+                    "color":"Black",
+                    "colorCode":"#0A0A0A"
+                },
+                {
+                    "color":"Black & red",
+                    "colorCode":"#876464"
+                }
+
+            ],
+            "price":"BDT 699",
+            "specification":"<table border=\"0\" width=\"507\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td class=\"oa1\" width=\"144\" height=\"73\">\r\n<p>Specification<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"363\">\r\n<p>Details<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"144\" height=\"33\">\r\n<p>Colors<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"363\">\r\n<p>Black, Blue, Red+Black<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa4\" width=\"144\" height=\"47\">\r\n<p>Battery<\/p>\r\n<\/td>\r\n<td class=\"oa4\" width=\"363\">\r\n<p>130mAh<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"144\" height=\"31\">\r\n<p>Playtime<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"363\">\r\n<p>10hrs<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa5\" width=\"144\" height=\"31\">\r\n<p>Standby<\/p>\r\n<\/td>\r\n<td class=\"oa5\" width=\"363\">\r\n<p>50hrs<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"144\" height=\"31\">\r\n<p>Charging Time<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"363\">\r\n<p>2 hrs.<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa6\" width=\"144\" height=\"32\">\r\n<p>Dynamic Driver Size<\/p>\r\n<\/td>\r\n<td class=\"oa7\" width=\"363\">\r\n<p>&Oslash;10mm<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa3\" width=\"144\" height=\"28\">\r\n<p>Frequency Range<\/p>\r\n<\/td>\r\n<td class=\"oa3\" width=\"363\">\r\n<p>20-20KHz<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa7\" width=\"144\" height=\"36\">\r\n<p>Bluetooth Version<\/p>\r\n<\/td>\r\n<td class=\"oa7\" width=\"363\">\r\n<p>5.3<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa8\" width=\"144\" height=\"36\">\r\n<p>Horn<\/p>\r\n<\/td>\r\n<td class=\"oa8\" width=\"363\">\r\n<p>Real brass ring<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa7\" width=\"144\" height=\"36\">\r\n<p>Input Interface<\/p>\r\n<\/td>\r\n<td class=\"oa7\" width=\"363\">\r\n<p>Type-c<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa8\" width=\"144\" height=\"36\">\r\n<p>Wireless Range<\/p>\r\n<\/td>\r\n<td class=\"oa8\" width=\"363\">\r\n<p>&lt;10mm<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa7\" width=\"144\" height=\"36\">\r\n<p>&nbsp;<\/p>\r\n<p>Function<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/td>\r\n<td class=\"oa7\" width=\"363\">\r\n<p>Answer\/hang up\/redial\/up-and-down toggle\/Add or subtract volume adjustment Features magnetic suction headphone with true copper ring horn<\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-n30",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"XTRA N40 Neckband",
+            "slug":"XTRA_N40",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/audio/neckband/xtraN40_1.png",
+            "images":[
+                {
+                    "image":"/images/product/audio/neckband/xtraN40_1.png",
+                    "alt":"n40" 
+                },
+                {
+                    "image":"/images/product/audio/neckband/xtraN40_2.png",
+                    "alt":"n40" 
+                },
+                {
+                    "image":"/images/product/audio/neckband/xtraN40_3.png",
+                    "alt":"n40" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Blue",
+                    "colorCode":"#A7B6C8"
+                },
+                {
+                    "color":"Black",
+                    "colorCode":"#0A0A0A"
+                }
+
+            ],
+            "price":"BDT 1199",
+            "specification":"<table border=\"0\" width=\"575\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td class=\"xl68\" width=\"287\" height=\"24\">ITEM<\/td>\r\n<td class=\"xl63\" width=\"288\"><span class=\"font5\">DESCRIPTION<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Product<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">Neckband<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Model Name<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">XTRA N40<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Types of Earphones<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">Wireless Earphone<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Color<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">Black, Blue<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl66\" width=\"287\" height=\"62\"><span class=\"font5\">Package Contents<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">Earphones (L&amp;R) (2Pcs) Charging Cable 1Pcs User manual 1Pcs<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Chipset<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">JL7003<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Weight<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">28g<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Material<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">ABS<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Waterproof Level<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">IPX5<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"41\"><span class=\"font5\">Driver Type<\/span><\/td>\r\n<td class=\"xl67\" width=\"288\"><span class=\"font6\">&Oslash;10mm Copper ring composite membrane<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Frequency Range<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">20Hz-20KHz<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Sensitivity<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">90dB<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Bluetooth Version<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">V5.3<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Wireless Range<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">10m(Free Space)<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Battery Capacity<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">130mAh<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Charging Indicator<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">Red\/Blue<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Charging Interface<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">Type-C<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"40\"><span class=\"font5\">Suitable For<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">Compatible for all wireless devices<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Charging Time<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">2.5hr<\/span><\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"xl64\" width=\"287\" height=\"24\"><span class=\"font5\">Music Time<\/span><\/td>\r\n<td class=\"xl65\" width=\"288\"><span class=\"font6\">Up to 15hrs<\/span><\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-n40-neckband",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"XTRA N50 Neckband",
+            "slug":"XTRA_N50",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/audio/neckband/xtraN50_1.png",
+            "images":[
+                {
+                    "image":"/images/product/audio/neckband/xtraN50_1.png",
+                    "alt":"n50_1" 
+                },
+                {
+                    "image":"/images/product/audio/neckband/xtraN50_2.png",
+                    "alt":"n50_1" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#0A0A0A"
+                },
+                {
+                    "color":"Black & Orange",
+                    "colorCode":"#EF841A"
+                }
+            ],
+            "price":"BDT 1,199",
+            "specification":"<table border=\"0\" width=\"360\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td class=\"oa1\" width=\"180\">\r\n<p>ITEM<\/p>\r\n<\/td>\r\n<td class=\"oa1\" width=\"180\">\r\n<p>DESCRIPTION<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Earphone Type<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>In Ear Neckband<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Earphone<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>Magnet Adsorption<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Connectivity<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>Wireless V5.2<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>SpeakerImpedence<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>32Q+15%(at1000Hz 1mW)<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Speaker Input Power<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p><a href=\"mailto:3mW@1000Hz\">3mW@1000Hz<\/a><\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Frequency Response<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>20Hz to 20KHz<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Sensitivity<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>108dBSPL\/1mW<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Max.SPL<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>&gt;=104dB<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Sound Principle<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>Moving Coil<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Mic S\/N Ratio<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>More that 60dB<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Chipset<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>AB8925B2(Real Stereo ENC)<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Speaker Diameter<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>10mm<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Battery Capacity<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>180mAh<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Standby Time<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>300H<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Talking Time<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>25H*<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Music Play Time<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>25H*<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Call &amp; Music Control<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Volume Rocker<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Charging Port<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>Type-C<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Net Weight<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>25g<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"180\" height=\"19\">\r\n<p>Protection<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"180\">\r\n<p>IPX4(Anti Dust)<\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-n50",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"Xtra N25 Neckband",
+            "slug":"XTRA_N25",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/audio/neckband/xtraN25_1.png",
+            "images":[
+                {
+                    "image":"/images/product/audio/neckband/xtraN25_1.png",
+                    "alt":"n25_1" 
+                },
+                {
+                    "image":"/images/product/audio/neckband/xtraN25_2.png",
+                    "alt":"n25_2" 
+                },
+                {
+                    "image":"/images/product/audio/neckband/xtraN25_3.png",
+                    "alt":"n25_3" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#0A0A0A"
+                },
+                {
+                    "color":"Green",
+                    "colorCode":"#58832F"
+                }
+            ],
+            "price":"BDT 699",
+            "specification":"<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Specification<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Details<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Category Type<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Stereo Wireless Headset (Neck Band)<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Earphone<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Magnet Adsorption<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Bluetooth Version<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Bluetooth 5.2<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Playtime<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">8 hrs.<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Driver Size<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">10mm<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Charging Port<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Type-C<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Charging Time<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">2hrs.<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Battery<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">&nbsp;Li-polymer 90mAh<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Wireless Range<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">&nbsp;10 meters (Free Space)<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Frequency<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">20 to 20KHz<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Connectivity<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Android 4.4+ \/ iOS 9.0+<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<p dir=\"ltr\">Color<\/p>\r\n<\/td>\r\n<td>\r\n<p dir=\"ltr\">Black, Green<\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-n25",
+            "store_link":"/about/store"
+        }
+    ],
+    "WIREDEARPHONE": [
+        {
+            "name":"XTRA B75 pro",
+            "slug":" XTRA_B75_pro",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/audio/wired/xtraB75pro.png",
+            "images":[
+                {
+                    "image":"/images/product/audio/wired/xtraB75pro.png",
+                    "alt":"b75pro" 
+                },
+                {
+                    "image":"/images/product/audio/wired/xtraB75pro1.png",
+                    "alt":"b75pro" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Blue",
+                    "colorCode":"#A7B6C8"
+                },
+                {
+                    "color":"Black",
+                    "colorCode":"#0A0A0A"
+                }
+            ],
+            "price":"BDT 350",
+            "specification":"<table border=\"0\" width=\"589\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td class=\"oa1\" width=\"295\" height=\"36\">\r\n<p>ITEM<\/p>\r\n<\/td>\r\n<td class=\"oa1\" width=\"295\">\r\n<p>DESCRIPTION<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Model<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>XTRA B75 Pro<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Plug Type<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>3.5mm<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Head Phone Types<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>In-Ear<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Frequency Range<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>20Hz-20KHz<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Length<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>1.2m<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Microphone<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>&nbsp;Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Sensitivity<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>(96&plusmn;3dB)<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Driver<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>10mm<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Impedence<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>&nbsp;16 &Omega;<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Remote Buttons<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>Yes&nbsp;<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Warranty<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>6 Months<\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-b75-pro",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"XTRA B15",
+            "slug":"XTRA_B15",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/audio/wired/xtraB15.png",
+            "images":[
+                {
+                    "image":"/images/product/audio/wired/xtraB15.png",
+                    "alt":"b15" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#0A0A0A"
+                }
+            ],
+            "price":"BDT 120",
+            "specification":"<p>In-Ear corded headset<\/p>\r\n<p>&bull; Model: XTRA B15<\/p>\r\n<p>&bull; 10mm Driver<\/p>\r\n<p>&bull; Frequency Range: 20Hz &ndash; 20kHz<\/p>\r\n<p>&bull; Cord length: 1.2m<\/p>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-b15",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"Xtra B75 wired headphone",
+            "slug":"Xtra_B75",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/audio/wired/xtraB75.png",
+            "images":[
+                {
+                    "image":"/images/product/audio/wired/xtraB75.png",
+                    "alt":"b75" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#0A0A0A"
+                },
+                {
+                    "color":"Blue",
+                    "colorCode":"#A7B6C8"
+                }
+            ],
+            "price":"BDT 399",
+            "specification":"<p>In-Ear corded headset<\/p>\r\n<p>&bull; Model: XTRA B75 Wired Headphone<\/p>\r\n<p>&bull; 10mm Driver<\/p>\r\n<p>&bull; Frequency Range: 20Hz &ndash; 20kHz<\/p>\r\n<p>&bull; Cord length: 1.2m<\/p>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-b75-wired-headphone",
+            "store_link":"/about/store"
+        }
+
+    ],
+    "CABLE": [
+        {
+            "name":"XTRA C70 Cable Type-C",
+            "slug":" XTRA_C70",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/power/cable/xtraC70.png",
+            "images":[
+                {
+                    "image":"/images/product/power/cable/xtraC70.png",
+                    "alt":"c70" 
+                },
+                {
+                    "image":"/images/product/power/cable/xtraC70_1.png",
+                    "alt":"c70" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Blue",
+                    "colorCode":"#A7B6C8"
+                },
+                {
+                    "color":"Black",
+                    "colorCode":"#0A0A0A"
+                }
+            ],
+            "price":"BDT 350",
+            "specification":"<table border=\"0\" width=\"589\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr>\r\n<td class=\"oa1\" width=\"295\" height=\"36\">\r\n<p>ITEM<\/p>\r\n<\/td>\r\n<td class=\"oa1\" width=\"295\">\r\n<p>DESCRIPTION<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Model<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>XTRA B75 Pro<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Plug Type<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>3.5mm<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Head Phone Types<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>In-Ear<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Frequency Range<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>20Hz-20KHz<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Length<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>1.2m<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Microphone<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>&nbsp;Yes<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Sensitivity<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>(96&plusmn;3dB)<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Driver<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>10mm<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Impedence<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>&nbsp;16 &Omega;<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Remote Buttons<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>Yes&nbsp;<\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td class=\"oa2\" width=\"295\" height=\"36\">\r\n<p>Warranty<\/p>\r\n<\/td>\r\n<td class=\"oa2\" width=\"295\">\r\n<p>6 Months<\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-c70-cable-type-c-data-cable",
+            "store_link":"/about/store"
+        },
+        {
+            "name":"XTRA C80 Cable Type-C",
+            "slug":"XTRA_C80",
+            "storage":"N/A",
+            "emiOffer":"No EMI",
+            "pImage":"/images/product/power/cable/xtraC80.png",
+            "images":[
+                {
+                    "image":"/images/product/power/cable/xtraC80.png",
+                    "alt":"c80" 
+                },
+                {
+                    "image":"/images/product/power/cable/xtraC80_1.png",
+                    "alt":"c80" 
+                }
+            ],
+            "pColor": [
+                {
+                    "color":"Black",
+                    "colorCode":"#0A0A0A"
+                }
+            ],
+            "price":"BDT 120",
+            "specification":"<p>In-Ear corded headset<\/p>\r\n<p>&bull; Model: XTRA B15<\/p>\r\n<p>&bull; 10mm Driver<\/p>\r\n<p>&bull; Frequency Range: 20Hz &ndash; 20kHz<\/p>\r\n<p>&bull; Cord length: 1.2m<\/p>",
+            "overview":"",
+            "web_link":"https://www.salextra.com.bd/xtra-c80-cable-type-c-data-cable",
+            "store_link":"/about/store"
+        }
+
+    ]
+}

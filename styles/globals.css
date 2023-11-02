@@ -1,0 +1,83 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.headerlogo{
+  width: 100px;
+}
+.colorSection {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.colorCard {
+  flex: 25%;
+  height: 120px;
+  margin-right: 10% ;
+  border-radius: 15px;
+  width: 14rem ;
+  /* border: 1px; */
+  
+}
+
+.productColor {
+  display: flex;
+  width: 32px;
+  height: 32px;
+  margin-left: 30%;
+  /* margin-left: 3.5rem; */
+  border-radius: 15px;
+  /* box-shadow: 0px 0px 1px 1px black; */
+}
+.faq {
+  margin-top: 15px;
+  text-align: justify;
+}
+.faq p {
+  margin: 10px 0px 0px 20px;
+}
+.faq h6 {
+  font-weight: bold;
+}
+.navitem {
+  width: 380px;
+}
+@media screen and (min-width: 760px) {
+  .navitem {
+    width: 750px;
+  }
+  .headerlogo {
+    width: 150px;
+  }
+  .productColor {
+    width: 32px;
+    height: 32px;
+    margin-left: 2%;
+  }
+  .productSlider {
+    width: 80% !important;
+    margin-left: 10% !important;
+  }
+}
+.carousel .control-dots .dot {
+  background-color: black !important;
+}
+
+.carousel .thumbs-wrapper {
+  margin: 0px !important;
+}
+.productSlider {
+  /* width: 80% !important; */
+  margin: 2% !important;
+}
