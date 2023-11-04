@@ -8,112 +8,112 @@ import Carousel from "react-bootstrap/Carousel";
 const NeckbandData = require('@/JsonData/DB.json');
 // import { get_products_by_category } from '@/components/services/Api';
 
-export default async function Neckband() {
-  // const [Product, setProduct] = useState([{}]);
+ const Neckband = () => {
+  const [products, setProducts] = useState([]);
 
-  // useEffect(() => {
-  //   const fetchData = async () => {
-  //     const formData = {BrandId: 353,CategoryIds:[53] }
-  //     const productData = await get_products_by_category(formData);
-  //     // const json = await response.json();
-  //     setProduct(productData);
-  //   };
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const formData =  {BrandId: 353, CategoryIds:[42]};
+        const data = await get_products_by_category(formData);
+        setProducts(data);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
 
-  //   fetchData();
-  // }, []);
-
-  // console.log("PDPDPDPD", Product);
-  const formData = {BrandId: 353,CategoryIds:[53] }
-  const Product = await get_products_by_category(formData)
-  console.log("Neckband Data", Product);
+    fetchData();
+  }, []);
+  // const formData = {BrandId: 353,CategoryIds:[53] }
+  // const Product = await get_products_by_category(formData)
+  console.log("Neckband Data Product", products);
   
   return (
-    <> <h4>{JSON.stringify(Product.data.name)}</h4>
-    </>
-    // <div>
-    //   {/* <div>
-    //     <Row className=" justify-content-center">
-    //       <Col className="d-flex justify-content-center">
-    //         <div className="phonesection-banner"></div>
-    //       </Col>
-    //     </Row>
-    //   </div> */}
-    //   <div>
-    //     <Row className="justify-content-md-center mt-5">
-    //       {Product.data?.map((pdata) => (
-    //         <Col
-    //           key={pdata.id}
-    //           className="d-flex justify-content-center"
-    //           md="auto"
-    //         >
-    //           <a href={`neckband/${pdata.id}`}>
-    //           <Card 
-    //             className="productBox"
-    //             // style={{
-    //             //   backgroundColor: "#CDCACA",
-    //             //   width: "16rem",
-    //             //   textAlign: "center",
-    //             //   color: "black",
-    //             //   margin: "0px 10px 20px 10px",
-    //             //   borderRadius: "10px",
-    //             //   border: 0,
-    //             // }}
-    //           >
-    //             <p
-    //               style={{
-    //                 margin:"0px",
-    //                 backgroundColor: "#FDF192",
-    //                 width: "150px",
-    //                 height: "25px",
-    //                 // color: "white",
-    //                 borderRadius: "15px",
-    //                 alignSelf:"center",
-    //                 fontSize:"12px"                    
-    //               }}
-    //             >
-    //               <b>Get Official Product</b>
-    //             </p>
-    //             <Card.Img
-    //               variant="top"
-    //               style={{
-    //                 height: "240px",
-    //                 width: "240px",
-    //                 alignSelf: "center",
-    //               }}
-    //               src={pdata.defaultPictureModel.imageUrl}
-    //             />
-    //             <div className="imgeoverly"></div>
-    //             <p
-    //               style={{
-    //                 margin:"0px",
-    //                 backgroundColor: "black",
-    //                 width: "120px",
-    //                 color: "white",
-    //                 borderRadius: "10px",
-    //                 placeSelf: "center", 
-    //               }}
-    //             >
-    //               {/* <b>{data.emiOffer}</b> */}
-    //             </p>
-    //             <Card.Body>
-    //             {/* <div className='b-view'>
-    //                 <Button target="_blank" href={`watch/${data.slug}`} style={{width:'150px', fontSize:'15px'}} > View Details</Button>
-    //               </div> */}
-    //               <Card.Title style={{ fontSize: "15px" }}>
-    //                 {pdata.name}
-    //               </Card.Title>
-    //               <Card.Text>
-    //                 <b>{pdata.productPrice.price}</b>
+    <div>
+      {/* <div>
+        <Row className=" justify-content-center">
+          <Col className="d-flex justify-content-center">
+            <div className="phonesection-banner"></div>
+          </Col>
+        </Row>
+      </div> */}
+      <div>
+        <Row className="justify-content-md-center mt-5">
+          {products.data?.map((pdata) => (
+            <Col
+              key={pdata.id}
+              className="d-flex justify-content-center"
+              md="auto"
+            >
+              <a href={`neckband/${pdata.id}`}>
+              <Card 
+                className="productBox"
+                // style={{
+                //   backgroundColor: "#CDCACA",
+                //   width: "16rem",
+                //   textAlign: "center",
+                //   color: "black",
+                //   margin: "0px 10px 20px 10px",
+                //   borderRadius: "10px",
+                //   border: 0,
+                // }}
+              >
+                <p
+                  style={{
+                    margin:"0px",
+                    backgroundColor: "#FDF192",
+                    width: "150px",
+                    height: "25px",
+                    // color: "white",
+                    borderRadius: "15px",
+                    alignSelf:"center",
+                    fontSize:"12px"                    
+                  }}
+                >
+                  <b>Get Official Product</b>
+                </p>
+                <Card.Img
+                  variant="top"
+                  style={{
+                    height: "220px",
+                    width: "220px",
+                    alignSelf: "center",
+                  }}
+                  src={pdata.defaultPictureModel.imageUrl}
+                />
+                <div className="imgeoverly"></div>
+                <p
+                  style={{
+                    margin:"0px",
+                    backgroundColor: "black",
+                    width: "120px",
+                    color: "white",
+                    borderRadius: "10px",
+                    placeSelf: "center", 
+                  }}
+                >
+                  {/* <b>{data.emiOffer}</b> */}
+                </p>
+                <Card.Body>
+                {/* <div className='b-view'>
+                    <Button target="_blank" href={`watch/${data.slug}`} style={{width:'150px', fontSize:'15px'}} > View Details</Button>
+                  </div> */}
+                  <Card.Title style={{ fontSize: "15px" }}>
+                    {pdata.name}
+                  </Card.Title>
+                  <Card.Text>
+                    <b>{pdata.productPrice.price}</b>
                     
-    //               </Card.Text>
-    //               {/* <Link href={`watch/${data.slug}`}> View More</Link> */}
-    //             </Card.Body>
-    //           </Card>
-    //           </a>
-    //         </Col>
-    //       ))}
-    //     </Row>
-    //   </div>
-    // </div>
+                  </Card.Text>
+                  {/* <Link href={`watch/${data.slug}`}> View More</Link> */}
+                </Card.Body>
+              </Card>
+              </a>
+            </Col>
+          ))}
+        </Row>
+      </div>
+    </div>
   )
 }
+export default Neckband;

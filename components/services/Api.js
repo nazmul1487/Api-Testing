@@ -15,6 +15,9 @@ export const get_products_by_category = async (formData) => {
         body: JSON.stringify(formData)
     });
     const data = await res.json();
+    // console.log(typeof(data))
+    // console.log(typeof(res))
+
     // console.log("get_all_data", data);
     return data;
 } catch(error) {
@@ -25,12 +28,13 @@ export const get_products_by_category = async (formData) => {
 
 
 export const get_products_by_id = async (id) => {
+    console.log("PPPPIIIDD",id)
     try {
         const baseUrl = 'https://www.salextra.com.bd/api/product/productdetails';
 
-        const API_BASE_URL = `${baseUrl}/${tm.charger}`+"/0";
+        const API_BASE_URL = `${baseUrl}/${id}`+"/0";
         const getHeaders = () => {
-            return {
+            return { 
                 "Accept": "application/json",
                 "Content-Type": "application/json",
                 "Token": "yJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJFeHRlcm5hbFN0b3JlSWQiOjMsImV4cCI6MTYzMzY5MzIxMy4wfQ.NH2zUNLXc4g7gz6prFNtJ3GrECyGSXGDjppyiDdjbos",
@@ -44,6 +48,7 @@ export const get_products_by_id = async (id) => {
            
         });
         const newData = await response.json()
+        return newData;
     } catch(error) {
         console.log("Error to get individual product data")
     }

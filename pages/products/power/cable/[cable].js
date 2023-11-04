@@ -31,7 +31,7 @@ export default function CableDta( data ) {
   );
 }
 
-CableDta.getInitialProps = async ({ query:  cable  }) => {
+CableDta.getInitialProps = async ({ query: { cable } }) => {
  // const { data } = await ArticleAPI.get(pid);
   const data = await CableData.CABLE.filter(item=> item.slug== cable)
   // console.log('Data', data)
